@@ -65,11 +65,4 @@
 			</plugin>
 		</plugins>
 	</build>
-<distributionManagement>
-	
-
-
-</distributionManagement>
-
-
 </project>
